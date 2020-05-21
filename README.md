@@ -1,4 +1,4 @@
-# BEIT_PROJECT_2019-2020
+# BEIT_PROJECT_19_IOT Based Accident Alert System
 
 Following Repository Consists of Final Project Source code (Group Number.Project Title.zip)
 
